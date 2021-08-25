@@ -1,0 +1,116 @@
+.cont {
+  height: 200px;
+  width: 80%;
+  background-color: rgb(43, 43, 189);
+  margin: auto;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+.cont-1 {
+  height: 86px;
+  width: 100%;
+  background-color: white;
+  opacity: ;
+}
+.circle {
+  height: 130px;
+  width: 130px;
+  background-color: rgb(16, 209, 216);
+  border-radius: 100px 100px 100px 100px;
+  margin-left: 15px;
+  margin-top: 0px;
+}
+
+.circle button {
+  border: none;
+  background: none;
+  font-size: 25px;
+
+  font-weight: bold;
+  color: aliceblue;
+  margin-left: 15px;
+  margin-top: 45px;
+}
+.btn-box {
+  height: 50px;
+  width: 40%;
+  background: none;
+  float: right;
+  margin-right: 20px;
+}
+.btn-btn-1 {
+  padding: 10px 10px;
+  background: none;
+  font-size: 15px;
+  color: white;
+  float: left;
+  margin-left: 20px;
+  margin-top: 5px;
+  cursor: pointer;
+  border: 2px solid rgb(129, 212, 178);
+  border-radius: 5px 5px 5px 5px;
+}
+.btn-btn-2 {
+  padding: 10px 10px;
+  background: none;
+  font-size: 15px;
+  color: white;
+  float: left;
+  margin-left: 20px;
+  margin-top: 5px;
+  cursor: pointer;
+  border: 2px solid rgb(129, 212, 178);
+  border-radius: 5px 5px 5px 5px;
+}
+
+.box {
+  height: 450px;
+  width: 80%;
+  background-color: rgb(97, 97, 232);
+  margin: auto;
+}
+.btn-3 {
+  padding: 10px 10px;
+  margin-top: 8px;
+}
+.box-btn {
+  height: 150px;
+  width: 100%;
+  background: none;
+  margin: auto;
+  margin-top: 0;
+}
+/*  start ..........change div  color...................... */
+#Div1 {
+  z-index: -2;
+  border: 1px solid black;
+  height: 250px;
+  width: 95%;
+  margin: auto;
+  margin-top: 5px;
+  font-size: 20px;
+  color: aliceblue;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+}
+
+#DivBtn {
+}
+.mar {
+  text-align: center;
+}
+
+/*  end ..........change div  color...................... */
+
+.footer {
+  height: 50px;
+  width: 80%;
+  background-color: black;
+  margin: auto;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  word-spacing: 5px;
+  margin-top: 10px;
+}
