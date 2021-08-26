@@ -1,0 +1,75 @@
+.bdy{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(7, 62, 163);
+}
+
+.cont-frm{
+    height:550px;
+    width: 50%;
+    background:none;
+    margin: auto;
+    margin-top: 20PX;
+    border: 2px solid rgb(98, 223, 175);
+    border-radius: 5px 5px 5px 5px;
+
+    
+}
+.text{
+    height:60px;
+    width: 100%;
+    background:none;
+    margin: auto;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.frm-cont-1{
+    height: 400px;
+    width: 70%;
+    background:none;
+    margin: auto;
+    margin-top: 10px;
+
+
+}
+.lab{
+    font-size: 20px;
+    color: white;
+    
+}
+.control{
+    height: 35px;
+    width: 90%;
+    border: none;
+    border: 2px solid rgb(180, 192, 17);
+    border-radius: 5px 5px 5px 5px;
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 12px;
+    margin-top: 10px;
+}
+.form-group{
+    margin-top: 30px;
+    background:none;
+    height: auto;
+    width: 5%;
+    margin-left: 33%;
+
+}
+.btn{
+    padding: 10px 25px;
+    font-size: 20px;
+    color: white;
+    background: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    border: 1px solid rgb(179, 7, 185);
+    border-radius: 5px 5px 5px 5px;
+
+}
+.btn:hover{
+    cursor: pointer;
+}

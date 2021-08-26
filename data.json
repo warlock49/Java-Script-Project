@@ -1,0 +1,8 @@
+{
+    "pets":[
+        {"name":"Dog", "age": 5,"color":"black","weight":66},
+        {"name":"horse","age":6,"color":"black","weight":368},
+        {"name":"cow","age":5,"color":"white","weigth":268},
+        {"name":"donkey","age":3,"color":"pink","weight":200}
+    ]
+}
